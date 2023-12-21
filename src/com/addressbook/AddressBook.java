@@ -19,7 +19,7 @@ public class AddressBook {
                 System.out.print("Name: "+contact.getFirstName()+" "+contact.getLastName()  +
                         "\nAddress: " + contact.getAddress() +
                         "\nCity: " + contact.getCity() +
-                        "\nState: " + contact.getCity() +
+                        "\nState: " + contact.getState() +
                         "\nZIP: " + contact.getZip() +
                         "\nPhone Number: " + contact.getPhoneNumber() +
                         "\nEmail: " + contact.getEmail());
