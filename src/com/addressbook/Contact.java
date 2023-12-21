@@ -91,15 +91,4 @@ public class Contact {
     public String getFullName() {
         return firstName + " " + lastName;
     }
-
-//    @Override
-//    public String toString() {
-//        return "Name: " + firstName + " " + lastName +
-//                "\nAddress: " + address +
-//                "\nCity: " + city +
-//                "\nState: " + state +
-//                "\nZIP: " + zip +
-//                "\nPhone Number: " + phoneNumber +
-//                "\nEmail: " + email;
-//    }
 }
